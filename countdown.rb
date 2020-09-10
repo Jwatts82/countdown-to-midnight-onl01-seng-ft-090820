@@ -10,6 +10,6 @@ def countdown (number)
   "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep (countdown)
+def countdown_with_sleep (runtime.real.to_i)
   sleep 1 
 end
