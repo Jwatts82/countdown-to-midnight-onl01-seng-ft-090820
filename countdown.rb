@@ -10,7 +10,7 @@ def countdown (number)
   "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep (number)
-  number <= 5
+def countdown_with_sleep (1)
+  1 <= 5
   sleep 1 
 end
